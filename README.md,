@@ -1,1 +1,19 @@
-"Skillfolio: student portfolio builder"
+# Skillfolio
+
+A student portfolio builder.
+
+## Problem
+Students have projects, skills, certificates and resumes scattered in many places, so they can't show their work professionally.
+
+## Solution
+Skillfolio lets a student create one professional portfolio page in minutes.
+
+## Features
+- Add projects with description and links
+- Add skills and certificates
+- Upload or generate a resume
+- Get a shareable portfolio page
+
+## Tech
+- Frontend: React
+- Track: Skill Tank (EdTech)
